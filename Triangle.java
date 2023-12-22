@@ -11,7 +11,7 @@ public class Triangle{
      int c= Integer.parseInt(args[2]);
      boolean isGreater= ((a+b)>c && (a+c)>b&& (c+b)>a);
 	
-System.out.println(a+", "+b+", "+c+" : "+ isGreater);
+System.out.println(a+", "+b+", "+c+": "+isGreater);
    
      } 
    } 
