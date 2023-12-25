@@ -5,5 +5,5 @@ public class Coins{
         int c= a%25;
    System.out.println("Use " + b + " quarters and " + c+ " cents");
    } 
- } 
+}
 
