@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-=======
-/*
- * Generates three random integers, each in a given range [a,b),
- * prints them, and then prints the minimal number that was generated.
- */
->>>>>>> 37d5a10f816cb98bf1c6443c2656f855506202c9
 public class GenThree{
  public static void main (String[] args){
 
